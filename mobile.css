@@ -1,0 +1,55 @@
+@media screen and (max-width: 376px) {
+
+    /* hero */
+    .hero {
+        height: 70vh;
+    }
+    .hero .hero__content h1 {
+
+        font-size: 25px;
+    }
+
+    .hero .hero__content p {
+        font-size: 10px;
+    }
+
+
+    /* navbar */
+    .navbar {
+        display: flex;
+        justify-content: start;
+    }
+
+    .navbar .navbar-nav {
+        display: block;
+    }
+
+    .nav-item:last-child {
+        border-right: none;
+    }
+
+    
+    /* job */
+    .job {
+        margin-top: 50px;
+    }
+
+
+
+    /* ?project */
+    .project .project__list{
+        gap: 20px;
+    }
+
+
+    
+    /* footer */
+    .footer .footer-item p {
+        display: none;
+    }
+    
+
+
+
+
+}

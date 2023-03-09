@@ -1,0 +1,28 @@
+@media screen and (max-width: 769px) {
+    /* Navbar */
+
+    .navbar .navbar-nav .nav__name p,
+    .navbar .navbar-nav .nav__name span {
+        display: none;
+    }
+
+    .navbar .navbar-nav {
+        display: grid;
+        grid-template-columns: 2fr 2fr 35px 2fr 2fr;
+    }
+
+    /* certificate */
+
+
+
+
+    /* project */
+    .project__info .info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project__info .text-white {
+        align-self: center;
+    }
+}
