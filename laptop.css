@@ -8,7 +8,7 @@
 
 /* SECTION HERO */
 .hero {
-    background-image: linear-gradient(rgba(34, 34, 34, 0.6), rgba(34, 34, 34, 0.6)), url(../images/banner.jpg);
+    background-image: linear-gradient(rgba(34, 34, 34, 0.6), rgba(34, 34, 34, 0.6)), url(./images/banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
