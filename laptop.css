@@ -4,7 +4,10 @@
     box-sizing: border-box;
 }
 
-/* .container {} */
+body {
+    margin-right: 20px;
+    margin-left: 20px;
+}
 
 /* SECTION HERO */
 .hero {
